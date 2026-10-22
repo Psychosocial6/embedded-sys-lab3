@@ -1,0 +1,11 @@
+../Core/Src/snake.c:41:17:rng_next	1
+../Core/Src/snake.c:46:13:int_to_str	6
+../Core/Src/snake.c:71:13:spawn_food	5
+../Core/Src/snake.c:174:13:draw_menu	1
+../Core/Src/snake.c:192:13:draw_gameover	1
+../Core/Src/snake.c:65:13:draw_filled_rect	2
+../Core/Src/snake.c:138:13:draw_game	2
+../Core/Src/snake.c:86:6:Snake_Init	1
+../Core/Src/snake.c:103:10:Snake_GetDelay	3
+../Core/Src/snake.c:114:6:Snake_HandleInput	13
+../Core/Src/snake.c:216:6:Snake_Step	18

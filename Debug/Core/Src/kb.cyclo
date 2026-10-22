@@ -1,0 +1,3 @@
+../Core/Src/kb.c:10:19:Set_Keyboard	3
+../Core/Src/kb.c:31:9:Check_Row	8
+../Core/Src/kb.c:69:6:Scan_Keyboard	5
